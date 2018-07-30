@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1532990984 source:c:\c++ program\notes\main.cpp
+	<iostream>
+	<cmath>
+	<ctime>
+	<cstdlib>
+	"Taylor.h"
+
+1531982454 c:\c++ program\notes\taylor.h
+
+1531982472 source:c:\c++ program\notes\taylor.cpp
+	"Taylor.h"
+	<iostream>
+	<cmath>
+	<ctime>
+	<cstdlib>
+
